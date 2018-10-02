@@ -1,2 +1,2 @@
 #### Hola
-* This is an emphasized message *
+*This is an emphasized message*
